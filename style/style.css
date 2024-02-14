@@ -1,0 +1,290 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-size: inherit !important;
+    background: url(https://kartinkived.ru/wp-content/uploads/2021/11/sinij-fon.jpg);
+}
+
+.header {
+    width: 1301px;
+    height: 59px;
+    background-color: #545454;
+    position: fixed;
+}
+
+.birjoydaturish {
+    margin-left: -50px;
+}
+
+.hero-item {
+    margin-right: 232px;
+    float: right;
+    padding: 20px;
+    margin-left: -210px;
+    list-style: none;
+}
+
+.hero-item a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.text h2 {
+    margin-left: 490px;
+    margin-top: 60px;
+}
+
+.hero-text1 a {
+    margin-top: 20px;
+    font-size: 20px;
+    margin-left: 50px;
+    list-style: none;
+    text-decoration: none;
+    color: #fff;
+    gap: 5px;
+}
+
+.hero-text1 {
+    display: flex;
+    align-items: center;
+    width: 100px;
+}
+
+.text {
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img {
+    width: 240px;
+    height: 442px;
+    border-radius: 150px;
+    margin-left: 610px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img1 {
+    margin-left: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.left1 {
+    margin-top: -310px;
+    margin-left: 150px;
+}
+
+.list {
+    color: #74797C;
+}
+
+.left {
+    color: #fff;
+}
+
+.list3 {
+    color: #74797C;
+}
+
+.left2 {
+    color: #ffffff;
+}
+
+.right {
+    margin-left: 140px;
+    float: right;
+}
+
+.center {
+    margin-top: 20px;
+    margin-left: 380px;
+    gap: 2em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.var {
+    color: #74797C;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.vep {
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.left5 h4 {
+    color: #fff;
+    width: 150px;
+    margin-top: 100px;
+    margin-left: 200px;
+}
+
+.left5 img {
+    margin-top: 50px;
+    margin-left: 125px;
+}
+
+.top {
+    margin-top: 100px;
+}
+
+.right5 h4 {
+    font-size: 16px;
+    color: #fff;
+    margin-top: -281px;
+    margin-left: 820px;
+}
+
+.right5 img {
+    margin-top: 49px;
+    margin-left: 850px;
+}
+
+.var1 {
+    color: #74797C;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.vep1 {
+    margin-top: 100px;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.left6 h4 {
+    color: #fff;
+    width: 150px;
+    margin-top: 100px;
+    margin-left: 200px;
+}
+
+.left6 img {
+    margin-top: 50px;
+    margin-left: 125px;
+}
+
+.top1 {
+    margin-top: 100px;
+}
+
+.right6 h4 {
+    color: #fff;
+    margin-top: -20px;
+    margin-left: 930px;
+}
+
+.right6 {
+    margin-left: -120px;
+}
+
+.right6 h4 {
+    margin-top: -178px;
+}
+
+.left6 p {
+    margin-left: 180px;
+    color: #74797C;
+}
+
+.left6 h2 {
+    color: #ffffff;
+    margin-left: 135px;
+}
+
+.right6 p {
+    color: #74797C;
+    margin-left: 940px;
+}
+
+.right6 h2 {
+    color: #ffffff;
+    margin-left: 890px;
+}
+
+.top2 {
+    margin-left: 100px;
+}
+
+.vep2 {
+    color: #fff;
+    margin-left: -20px;
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.top2 p {
+    color: #74797C;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.left7 h2 {
+    margin-left: 100px;
+    color: #fff;
+}
+
+.hero4 {
+    backdrop-filter: blur(5px);
+}
+
+.left7 a {
+    margin-left: 120px;
+    color: #74797C;
+}
+
+.right8 {
+    margin-left: 669px;
+    margin-top: -185px;
+}
+
+.right8,
+input {
+    width: 320px;
+    height: 60px;
+    background: url(https://kartinkived.ru/wp-content/uploads/2021/11/sinij-fon.jpg);
+    border: 1px solid #fff;
+    color: #fff;
+    border-radius: 50px;
+}
+
+.continer {
+    width: 1300px;
+    backdrop-filter: blur(5px);
+}
+
+.sub {
+    width: 115px;
+    height: 30px;
+    background: url(https://kartinkived.ru/wp-content/uploads/2021/11/sinij-fon.jpg);
+    border: 1px solid #fff;
+    color: #fff;
+    border-radius: 50px;
+}
+
+@media screen and (max-width: 450px) {
+    .continer {
+        width: 100%;
+        gap: 10px;
+    }
+}
